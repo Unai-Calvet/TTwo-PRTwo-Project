@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTwo-PRTwo", "TTwo-PRTwo.csproj", "{C34C7424-4F63-496A-8DBF-A4A28C0605DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTwo-PRTwo", "TTwo-PRTwo.csproj", "{C34C7424-4F63-496A-8DBF-A4A28C0605DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTwo-PRTwo-Test", "..\TTwo-PRTwo-Test\TTwo-PRTwo-Test.csproj", "{C7C8E0F8-C614-4DC9-A56D-4733A00E4B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C34C7424-4F63-496A-8DBF-A4A28C0605DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34C7424-4F63-496A-8DBF-A4A28C0605DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34C7424-4F63-496A-8DBF-A4A28C0605DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C8E0F8-C614-4DC9-A56D-4733A00E4B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C8E0F8-C614-4DC9-A56D-4733A00E4B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C8E0F8-C614-4DC9-A56D-4733A00E4B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C8E0F8-C614-4DC9-A56D-4733A00E4B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
