@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\TTwo-PRTwo-Library\TTwo-PRTwo-Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="TTwo-PRTwo-Library">
       <HintPath>bin\Debug\net8.0\TTwo-PRTwo-Library.dll</HintPath>
     </Reference>
